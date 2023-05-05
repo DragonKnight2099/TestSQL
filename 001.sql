@@ -1,1 +1,2 @@
-SELECT * FROm Ventas
+SELECT * FROM Ventas
+WHERE Sales = 500
